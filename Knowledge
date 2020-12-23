@@ -3,3 +3,35 @@
 ===============================================================================
 FaaS            -- function as a service
 DBaaS           -- Database as a service
+
+
+===============================================================================
+                    Integration
+===============================================================================
+Integration     -- provides connectivity, routing and transformation for different services
+                -- enables sharing data, connecting applications and security
+                
+API connect        --provides API creation and management security rich features and centralized governance
+App connect        -- allows you to connect your applications, automate tasks with hundredst of built-in-connectors
+Event Streams      -- high troughput message bus built with Apache Kafka
+MQ                 -- provides enterprise grade messaging
+
+===============================================================================
+                    AI services on the cloud
+===============================================================================
+Implementing AI services 
+
+IBM Cloud AI services
+-------------------------------------------------------------------------------
+- Watson studio
+- Machine learning
+- Watson OpenScale
+- Knowledge catalog
+- natural language understanding
+- Tone Analyser
+- Discovery
+- Knowledge studio
+- Speech to text
+- Language translator
+- Text to speech
+- Watson assistant
