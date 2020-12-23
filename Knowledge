@@ -52,3 +52,40 @@ Streaming Analytics     -- used to ingest, analyze, monitor and correlate data i
 DB2 Warehouse
 Cognos Dashboard
 Information Server
+
+
+===============================================================================
+                     Cloud Paks
+===============================================================================
+Definition - Containerized software solutions built to run anywhere
+
+Cloud Paks are a collection of containerized software. Choose to install all components or just a few. 
+Cloud Paks are based on OpenShift and as such can be run anywhere: on IBM Cloud, on-premises, or any cloud. 
+There are six Cloud Paks: Application, Data, Integration, Automation, Multi-cloud, and Security 
+
+===============================================================================
+                     Dev Ops
+===============================================================================
+Definition    -- A set of practices that combine software development and IT operations to shorten the development lifecycle and provide high-quality software 
+
+Ex.: IBM Cloud DevOps services provide a set of tools that support development, deployment, delivery, and operations tasks. 
+IBM Cloud Toolchains are assembled by combining tasks
+
+===============================================================================
+                    Blockchain
+===============================================================================
+Definition    -- Blockchain is a data structure that contains an immutable history of transactions on a network in cryptographically ordered blocks. 
+                 The order of the blocks on a network is reached by the agreement of the nodes using a consensus algorithm. 
+Hyperledger Fabric    -an open-source project that implements a distributed ledger platform. It is available on cloud providers such as IBM Cloud, AWS, GCP, and Azure.                  
+ 
+
+The DevOps service has support for IBM Cloud deployment platforms and other third-party providers such as GitHub, Bitbucket, Slack, Jira, any many more. 
+
+===============================================================================
+                   IoT (Internet of things)
+===============================================================================
+Definition    -- a system of interrelated computing devices, that transfers data over a network and has practical use cases in many industries. 
+
+The IBM Cloud Internet of Things Platform allows you to connect and register IoT enabled devices. 
+The IoT Platform provides a dashboard to manage and monitor all connected devices.  
+
