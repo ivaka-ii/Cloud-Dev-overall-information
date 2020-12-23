@@ -46,3 +46,9 @@ Analytics Cycle
 3. Diagnostic
 4. Predictive
 5. Prescriptive
+
+Analitytics Engine      -- lets you deploy and dvelop apps using open source Apache Spark
+Streaming Analytics     -- used to ingest, analyze, monitor and correlate data in real time, support for unstructured text, video, audio 
+DB2 Warehouse
+Cognos Dashboard
+Information Server
