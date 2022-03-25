@@ -1,0 +1,120 @@
+Cloud Computing Penetration Testing
+============================================================================================================
+method of actively checking and examining the Cloud system by simulating the attack from the malicious code.
+
+Cloud computing is the shared responsibility of Cloud provider and client who earn the service from the provider.
+
+Due to impact of the infrastructure , Penetration Testing not allowed in SaaS Environment.
+
+Cloud Penetration Testing allowed in PaaS,IaaS with some Required coordination.
+
+Regular Security monitoring should be implemented to monitoring the presence of threats, Risks, and Vulnerabilities.
+
+SLA contract will decide what kind pentesting should be allowed and How often it can be done.
+
+You can Also take the complete Cloud security Pentesting online course to learn more about cloud penetration testing.
+
+Important Cloud Computing Penetration Testing Checklist:
+1.Check the Service Level Agreement and make sure that proper policy has been covered between Cloud service provider (CSP) and Client.
+
+2.To maintaining the Governance & Compliance, check the proper responsibility between Cloud service provider and subscriber.
+
+3.Check the service level agreement Document and track the record of CSP determine role and responsibility to maintain the cloud resources.
+
+4.Check the computer and Internet usage policy and make sure it has been implemented with proper policy.
+
+5.Check the unused ports and protocols and make sure services should be blocked.
+
+6.check the data which is stored in cloud servers is Encrypted by Default.
+
+7.Check the Two Factor Authentication used and validate the OTP ensure the network security.
+
+8.Check the SSL certificates for cloud services in the URL  and make sure certificates purchased from repudiated Certificate Authority (COMODO, Entrust, GeoTrust , Symantec, Thawte etc.)
+
+9. Check the Component of the access point, data center, devices, using Appropriate security Control.
+
+10.check the policies and procedure for Disclose the data to third parties.
+
+11.Check if CSP offers for cloning and virtual machines when Required.
+
+12. Check the proper input validation for Cloud applications to avoid web application Attacks such as XSS, CSRF, SQLi, etc.
+
+Also Read: Web Server Penetration Testing Checklist
+
+Cloud Computing Attacks:
+Session Riding ( Cross-Site Request Forgery)
+CSRF is an attack designed to entice a victim into submitting a request, which is
+malicious in nature, to perform some task as the user.
+
+Side Channel Attacks
+This type of attack is unique to the cloud and potentially very devastating, but it requires
+a lot of skill and a measure of luck.
+
+This form of attack attempts to breach the confidentiality of a victim indirectly by exploiting the fact that they are using shared resources in the cloud.
+
+Signature Wrapping Attacks
+Another type of attack is not exclusive to a cloud environment but is nonetheless
+a dangerous method of compromising the security of a web application.
+
+Basically, the signature wrapping attack relies on the exploitation of a technique used in web services.
+
+Other Attacks in Cloud Environment:
+Service hijacking using network sniffing
+Session hijacking using XSS attacks
+Domain Name System (DNS) attacks
+SQL injection attacks
+Cryptanalysis attacks
+Denial-of-service (DoS) and Distributed DoS attacks
+Important Considerations of Cloud Penetration Testing:
+1.Performing the Vulnerability Scanning in available host in Cloud Environment
+
+2. Determine the Type of Cloud whether it is SaaS or IaaS or PaaS.
+
+3.Determine what kind of testing permitted by the Cloud Service provider
+
+4.Check the Coordination, scheduling and performing the test by CSP.
+
+5.Performing Internal and External Pentesing.
+
+6. Obtain Written consents for performing the pentesting.
+
+7. Performing the web pentesting on the web apps/services without Firewall and Reverse Proxy
+
+Also Read: Web Server Penetration Testing Checklist
+
+Important Recommendation for Cloud Penetration Testing:
+1.Authenticate users with Username and Password.
+
+2. Secure the coding policy by giving attention Towards Services Providers Policy
+
+3.Strong Password Policy must be Advised.
+
+4.Change Regularly by Organization such as user account name, a password assigned by the cloud Providers.
+
+5.Protect information which is uncovered during the Penetration Testing.
+
+6. Password Encryption Advisable.
+
+7. Use centralized Authentication or single sign-on for SaaS Applications.
+
+8.Ensure the Security Protocols are up to date and Flexible.
+
+Important Tools
+SOASTA CloudTest:
+This suite can enable four types of testing on a single web platform: mobile functional and performance testing and web-based functional and performance testing.
+
+LoadStorm:
+LoadStorm is a load-testing tool for web and mobile applications and is easy
+to use and cost-effective.
+
+BlazeMeter:
+BlazeMeter is used for end-to-end performance and load testing of mobile
+apps, websites, and APIs.
+
+Nexpose:
+Nexpose is a widely used vulnerability scanner that can detect vulnerabilities, misconfiguration, and missing patches in a range of devices, firewalls, virtualized systems, cloud infrastructure.
+
+AppThwack:
+AppThwack is a cloud-based simulator for testing Android, iOS, and web
+apps on actual devices. It is compatible with popular automation platforms like
+Robotium, Calabash, UI Automation, and several others.
